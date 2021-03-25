@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Vipul Reddy Kondam
 
-You can use the [editor on GitHub](https://github.com/vipulreddy94/vipulreddy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+LinkedIn(https://linkedin.com/in/vipulreddy94) GitHub (https://github.com/vipulreddy94)
+
+Mobile : +1 (313) 689 7411
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
