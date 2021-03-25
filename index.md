@@ -1,6 +1,6 @@
 ## Vipul Reddy Kondam
 
-LinkedIn(https://linkedin.com/in/vipulreddy94) GitHub (https://github.com/vipulreddy94)
+[LinkedIn](https://linkedin.com/in/vipulreddy94) [GitHub](https://github.com/vipulreddy94)
 
 Mobile : +1 (313) 689 7411
 
